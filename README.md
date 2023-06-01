@@ -1,5 +1,5 @@
 # Custom anti-debugging
-Custom anti-debugging yet very simple.
+Although incredibly simple, it possesses effective anti-debugging capabilities.
 
 Due to its utilization in a private project, the source code will not be made available for release. However, considering the available video and information, emulating and coding it yourself should not pose a significant challenge.
 
